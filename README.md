@@ -1,2 +1,2 @@
 # centreVaccination_JFrame
-Conception d'un programme graphique JFrame en utilisant la même Base de Données que Vaccin_2022
+Projet en utilisant JFrame de gestion de centres de vaccination en ré-utilisant la Base de Données de Vaccin_2022
